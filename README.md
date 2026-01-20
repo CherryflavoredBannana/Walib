@@ -69,14 +69,3 @@ Most updates require minimal maintenance, typically limited to bug fixes or feat
 ## License
 
 This project is licensed under the terms of its respective license. See the `LICENSE` file for details.
-
----
-
-If you’d like, I can:
-
-* Add **installation and usage instructions**
-* Write a **developer-focused section**
-* Adapt this for **Modrinth / CurseForge**
-* Make it shorter or more marketing-oriented
-
-Just let me know.
