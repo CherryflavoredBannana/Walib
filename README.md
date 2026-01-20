@@ -1,6 +1,6 @@
 # WaLib
 
-Walib (Fabric Dynamic Mod Adapter) is a compatibility layer that allows **Fabric-based Minecraft servers to run plugins that would normally only work on platforms like Bukkit or Spigot**. It bridges the gap between Fabric’s modding environment and plugin ecosystems that rely on non-Fabric server behavior.
+Walib is a compatibility layer that allows **Fabric-based Minecraft servers to run plugins that would normally only work on platforms like Bukkit or Spigot**. It bridges the gap between Fabric’s modding environment and plugin ecosystems that rely on non-Fabric server behavior.
 
 Many existing plugins depend on internal server mechanics, packet handling, or platform-specific hooks that Fabric does not natively expose. WaLib handles this complexity internally, enabling these plugins to run without requiring extensive rewrites or unsafe manual patches.
 
